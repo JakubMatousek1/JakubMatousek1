@@ -35,6 +35,7 @@
 #### BIO
 
 - Master degree in Finance at **Technical University in Ostrava** in Czech Republic
+- +4 years of analytics experience
 - Area of interest is in <img src="https://img.shields.io/badge/-data%20analysis-green"> and <img src="https://img.shields.io/badge/-data%20vizualizaiton-blue">
 - Specifically interested in finding hidden patterns, outliers, trends and knowledge from a dataset.
 - Learning all about <img src="https://img.shields.io/badge/-python-blueviolet"> and <img src="https://img.shields.io/badge/data modeling-008080">
