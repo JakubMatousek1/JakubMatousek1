@@ -5,9 +5,9 @@
     <!--<a href="https://github.com/JakubMatousek1?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/JakubMatousek1" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/JakubMatousek1" alt="Active_Years"/>-->  
     <!--<a href="https://github.com/JakubMatousek1" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/JakubMatousek1" alt="commits"/>--> 
-    <a href="https://github.com/JakubMatousek1/JakubMatousek1/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/JakubMatousek1/bio" /></a>
+    <a href="https://github.com/JakubMatousek1/JakubMatousek1/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/JakubMatousek1/JakubMatousek1" /></a>
     <a href="https://github.com/JakubMatousek1?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/JakubMatousek1?color=4C1&logo=github"></a>
-    <a href="https://github.com/JakubMatousek1/JakubMatousek1" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/JakubMatousek1/bio?label=Profile%20update&style=fflat-square"></a>
+    <a href="https://github.com/JakubMatousek1/JakubMatousek1" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/JakubMatousek1/JakubMatousek1?label=Profile%20update&style=fflat-square"></a>
     <!--<a href="https://github.com/JakubMatousek1" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/JakubMatousek1/JakubMatousek1?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
     <!--<img src="https://badges.pufler.dev/gists/JakubMatousek1" alt="milaan9"/>-->
     <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
