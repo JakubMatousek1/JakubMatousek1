@@ -30,16 +30,16 @@
     
     
  ##### NOW
-- Currently working as Senior Credit Analyst at bank in Sweden.
+- Currently working as Senior Credit Analyst at bank in <img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" width="20"/>Sweden.
 
 #### BIO
 
 - Master degree in Finance at **Technical University in Ostrava** in Czech Republic
 - +6 years of analytics experience
-- Area of interest is in <img src="https://img.shields.io/badge/-data%20analysis-green"> and <img src="https://img.shields.io/badge/-data%20vizualizaiton-blue">
+- Area of interest is in <img src="https://img.shields.io/badge/-data%20analysis-green"> <img src="https://img.shields.io/badge/-credit-red"> and <img src="https://img.shields.io/badge/-data%20vizualizaiton-blue">
 - Specifically interested in finding hidden patterns, outliers, trends and knowledge from a dataset.
 - Learning all about <img src="https://img.shields.io/badge/-python-blueviolet"> and <img src="https://img.shields.io/badge/data modeling-008080">
-- Ping me about <img src="https://img.shields.io/badge/-SQL-purple"> <img src="https://img.shields.io/badge/-AWS Redshift-blue"> <img src="https://img.shields.io/badge/-AWS S3-orange"> <img src="https://img.shields.io/badge/-ETL-blue"> <img src="https://img.shields.io/badge/-AB Test-green"> <img src="https://img.shields.io/badge/QlikSense-008080">
+- Ping me about <img src="https://img.shields.io/badge/-SQL-purple"> <img src="https://img.shields.io/badge/-AWS Redshift-blue"> <img src="https://img.shields.io/badge/-ETL-blue"> <img src="https://img.shields.io/badge/-Snowflake-green"> <img src="https://img.shields.io/badge/QlikSense-008080"> <img src="https://img.shields.io/badge/-Tableau-orange">
 
 
    
