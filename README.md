@@ -26,7 +26,8 @@
 <p align="center"> 
     <a href="https://github.com/JakubMatousek1" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@JakubMatousek1-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/matousekjakub1" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-JakubMatousek-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>    
-    <a href="mailto:matousek.jakub.1@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-matousek.jakub.1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+    <a href="mailto:matousek.jakub.1@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-matousek.jakub.1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>    
+    <a href="https://public.tableau.com/app/profile/jakub.matousek/vizzes" target="_blank"><img alt="Tableau Public" src="https://img.shields.io/badge/-Tableau%20Public-005F9E?style=flat-square&logo=Tableau&logoColor=white"></a>
     
     
  ##### NOW
