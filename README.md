@@ -16,7 +16,7 @@
 
 
 <h1 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Jakub - Data Analyst!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Jakub - Senior Analyst!
 </h1> 
 
 
@@ -30,12 +30,12 @@
     
     
  ##### NOW
-- Currently working as Senior Analyst at Fin-tech.
+- Currently working as Senior Credit Analyst at bank in Sweden.
 
 #### BIO
 
 - Master degree in Finance at **Technical University in Ostrava** in Czech Republic
-- +4 years of analytics experience
+- +6 years of analytics experience
 - Area of interest is in <img src="https://img.shields.io/badge/-data%20analysis-green"> and <img src="https://img.shields.io/badge/-data%20vizualizaiton-blue">
 - Specifically interested in finding hidden patterns, outliers, trends and knowledge from a dataset.
 - Learning all about <img src="https://img.shields.io/badge/-python-blueviolet"> and <img src="https://img.shields.io/badge/data modeling-008080">
