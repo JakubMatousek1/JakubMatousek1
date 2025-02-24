@@ -30,11 +30,11 @@
     
     
  ##### NOW
-- Currently working as Senior Credit Analyst at bank in <img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" width="20"/>Sweden.
+- Currently working as Senior Credit Analyst at bank in Sweden <img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" width="20"/>.
 
 #### BIO
 
-- Master degree in Finance at **Technical University in Ostrava** in Czech Republic
+- Master degree in Finance at **Technical University in Ostrava** in Czech Republic <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" width="20"/>.
 - +6 years of analytics experience
 - Area of interest is in <img src="https://img.shields.io/badge/-data%20analysis-green"> <img src="https://img.shields.io/badge/-credit-red"> and <img src="https://img.shields.io/badge/-data%20vizualizaiton-blue">
 - Specifically interested in finding hidden patterns, outliers, trends and knowledge from a dataset.
