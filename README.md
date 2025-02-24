@@ -36,7 +36,7 @@
 
 - Master degree in Finance at **Technical University in Ostrava** in Czech Republic <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" width="20"/>.
 - +6 years of analytics experience
-- Area of interest is in <img src="https://img.shields.io/badge/-data%20analysis-green"> <img src="https://img.shields.io/badge/-credit-red"> and <img src="https://img.shields.io/badge/-data%20vizualizaiton-blue">
+- Area of interest is in <img src="https://img.shields.io/badge/-data%20analysis-green"> <img src="https://img.shields.io/badge/-credit-red"> and <img src="https://img.shields.io/badge/-data%20visualizaiton-blue">
 - Specifically interested in finding hidden patterns, outliers, trends and knowledge from a dataset.
 - Learning all about <img src="https://img.shields.io/badge/-python-blueviolet"> and <img src="https://img.shields.io/badge/data modeling-008080">
 - Ping me about <img src="https://img.shields.io/badge/-SQL-purple"> <img src="https://img.shields.io/badge/-AWS Redshift-blue"> <img src="https://img.shields.io/badge/-ETL-blue"> <img src="https://img.shields.io/badge/-Snowflake-green"> <img src="https://img.shields.io/badge/QlikSense-008080"> <img src="https://img.shields.io/badge/-Tableau-orange">
